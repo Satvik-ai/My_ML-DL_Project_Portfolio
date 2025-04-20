@@ -1,6 +1,4 @@
 # My Machine Learning/Deep Learning Project Portfolio
-
-## My Projects
  
 Project Name  | Description 
 ------------- | -------------

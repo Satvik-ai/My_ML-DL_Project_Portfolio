@@ -1,15 +1,17 @@
-# My Machine Learning/Deep Learning Project Portfolio
- 
+# 🧠 Machine Learning & Deep Learning Portfolio
+
+Welcome to my collection of machine learning and deep learning projects. These projects showcase my ability to design, build, and train models using popular datasets and tools. My focus has been on applying theory to practice through real-world and academic datasets across various domains including healthcare, agriculture, and transportation.
+
 ---
 
 | 🚀 Project | 📄 Description |
 ------------- | -------------
-[Plant Disease Classification](https://github.com/Satvik-ai/Plant-Disease-Classification) | Developed a CNN model for plant disease classification using leaf images.
-[Taxi Fare Guru : Total Amount Prediction](https://github.com/Satvik-ai/Taxi-Fare-Guru-Total-Amount-Prediction) | Developed predictive models to estimate the total amount paid by travelers for taxi rides.
-[CNN for CIFAR-10 Classification Using PyTorch](https://github.com/Satvik-ai/CNN_for_CIFAR10_Classification_Using_PyTorch) | This project implements a Convolutional Neural Network (CNN) using PyTorch to classify images from the CIFAR-10 dataset into 10 different categories.
-[FNN for Digits Classification Using PyTorch](https://github.com/Satvik-ai/FNN_for_Digits_Classification_Using_PyTorch) | This project demonstrates how to build and train a simple feedforward neural network using PyTorch for classifying handwritten digits from the popular MNIST dataset.
-[FNN for Iris Classification Using PyTorch](https://github.com/Satvik-ai/FNN_for_Iris_Classification_Using_PyTorch) | A feedforward neural network using PyTorch to classify the Iris dataset into different species.
-[Logistic Regression for Breast Cancer Classification Using PyTorch](https://github.com/Satvik-ai/Logistic_Regression_For_Breast_Cancer_Classification_Using_PyTorch) | This project demonstrates how to implement logistic regression using PyTorch to classify whether tumors are malignant or benign based on features from the Breast Cancer Wisconsin dataset.
+[Plant Disease Classification](https://github.com/Satvik-ai/Plant-Disease-Classification) | 	Built a Convolutional Neural Network (CNN) to detect plant diseases from leaf images, helping to automate agricultural diagnostics.
+[Taxi Fare Guru : Total Amount Prediction](https://github.com/Satvik-ai/Taxi-Fare-Guru-Total-Amount-Prediction) | Used regression models to predict taxi fare amounts using features like trip distance, pickup time, and location data.
+[CNN for CIFAR-10 Classification Using PyTorch](https://github.com/Satvik-ai/CNN_for_CIFAR10_Classification_Using_PyTorch) | 	Implemented a CNN in PyTorch to classify images from the CIFAR-10 dataset into 10 categories such as airplanes, cats, and trucks.
+[FNN for Digits Classification Using PyTorch](https://github.com/Satvik-ai/FNN_for_Digits_Classification_Using_PyTorch) | 	Built a simple feedforward neural network to classify handwritten digits from the MNIST dataset using PyTorch.
+[FNN for Iris Classification Using PyTorch](https://github.com/Satvik-ai/FNN_for_Iris_Classification_Using_PyTorch) | Created a basic feedforward neural net for multiclass classification of the classic Iris dataset, showcasing PyTorch fundamentals.
+[Logistic Regression for Breast Cancer Classification Using PyTorch](https://github.com/Satvik-ai/Logistic_Regression_For_Breast_Cancer_Classification_Using_PyTorch) | Implemented logistic regression from scratch in PyTorch to classify tumors as benign or malignant using the Breast Cancer Wisconsin dataset.
 
 ---
 

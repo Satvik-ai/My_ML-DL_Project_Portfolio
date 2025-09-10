@@ -6,6 +6,8 @@ Welcome to my collection of machine learning and deep learning projects. These p
 
 | 🚀 Project | 📄 Description |
 ------------- | -------------
+[Denoising and 4x Super Resolution of Low Light Images](https://github.com/Satvik-ai/Denoising-and-4x-Super-Resolution-of-Low-Light-Images) | Trained a deep learning model capable of denoising and enhancing the resolution of low-light images.
+[Depth Estimation from Low-Light RGB Images](https://github.com/Satvik-ai/Estimating-Depth-Maps-from-Real-World-Low-Light-Captures) | Developed a deep learning model pipeline to predict depth maps from real-world low light images. 
 [Plant Disease Classification](https://github.com/Satvik-ai/Plant-Disease-Classification) | 	Built a Convolutional Neural Network (CNN) to detect plant diseases from leaf images, helping to automate agricultural diagnostics.
 [Taxi Fare Guru : Total Amount Prediction](https://github.com/Satvik-ai/Taxi-Fare-Guru-Total-Amount-Prediction) | Used regression models to predict taxi fare amounts using features like trip distance, pickup time, and location data.
 [CNN for CIFAR-10 Classification Using PyTorch](https://github.com/Satvik-ai/CNN_for_CIFAR10_Classification_Using_PyTorch) | 	Implemented a CNN in PyTorch to classify images from the CIFAR-10 dataset into 10 categories such as airplanes, cats, and trucks.

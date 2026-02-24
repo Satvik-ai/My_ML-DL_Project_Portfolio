@@ -1,6 +1,6 @@
 # 🧠 Machine Learning & Deep Learning Portfolio
 
-Welcome to my collection of machine learning and deep learning projects. These projects showcase my ability to design, build, and train models using popular datasets and tools. My focus has been on applying theory to practice through real-world and academic datasets across various domains including healthcare, agriculture, and transportation.
+Welcome to my portfolio of Machine Learning and Deep Learning projects. This collection highlights my experience in designing, developing, and training models using widely adopted tools and datasets. My work emphasizes translating theoretical concepts into practical solutions, leveraging both real-world and academic datasets across diverse domains such as healthcare, agriculture, and transportation.
 
 ---
 

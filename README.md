@@ -6,7 +6,8 @@ Welcome to my portfolio of Machine Learning and Deep Learning projects. This col
 
 | 🚀 Project | 📄 Description |
 ------------- | -------------
-[Llama 3.2 1B Task Specific Finetuning](https://github.com/Satvik-ai/Llama-3.2-1B-Task-Specific-Finetuning) | Fine-tuning Meta's Llama 3.2 1B model on the IMDb dataset using three progressive strategies: Classification Head Fine-tuning, LoRA, and QLoRA.
+[Gemma 3 1B — Task-Specific Fine-Tuning for Multi-script Emotion Classification](https://github.com/Satvik-ai/Gemma-Finetuning-Multi-Script-Emotion-Classification) | Fine-tuning Google's Gemma 3 1B Instruct model for multilingual emotion classification. Giving the model ability to do emotion classification of sentences written in  three low resource language: **Santali**, **Kashmiri** and **Manipuri**.
+[Llama 3.2 1B Task Specific Finetuning](https://github.com/Satvik-ai/Llama-3.2-1B-Task-Specific-Finetuning) | Fine-tuning Meta's Llama 3.2 1B model on the IMDb dataset using strategies: Classification Head Fine-tuning, and LoRA.
 [Denoising and 4x Super Resolution of Low Light Images](https://github.com/Satvik-ai/Denoising-and-4x-Super-Resolution-of-Low-Light-Images) | Trained a deep learning model capable of denoising and enhancing the resolution of low-light images.
 [Depth Estimation from Low-Light RGB Images](https://github.com/Satvik-ai/Estimating-Depth-Maps-from-Real-World-Low-Light-Captures) | Developed a deep learning model pipeline to predict depth maps from real-world low light images.
 [Spoken Language Identification](https://github.com/Satvik-ai/Spoken_Language_Identification) | This project focuses on automatic spoken language identification using machine learning techniques. The goal is to classify an audio clip into its corresponding language based on extracted audio features.
